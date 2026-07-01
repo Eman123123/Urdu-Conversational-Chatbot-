@@ -6,14 +6,28 @@ This project implements an end-to-end Urdu Conversational Chatbot using a Transf
 
 # 🎯 Key Features
 Feature	Description
-1.🗣️ Urdu Language Support	Complete conversational understanding and generation in Urdu
-2.🔄 Transformer Architecture	Encoder-decoder model with multi-head attention
-3.📝 Subword Tokenization	SentencePiece tokenizer for efficient Urdu text processing
-4.🎨 Interactive UI	Gradio-based web interface for easy interaction
-5.📊 Comprehensive Evaluation	BLEU, ROUGE-L, and chrF metrics
-🎯 Advanced Decoding	Top-k and top-p sampling with temperature control
-💾 Model Persistence	Save and load trained models seamlessly
-🚀 GPU Support	Optimized for CUDA-enabled training
+1. 🗣️ Urdu Language Support	Complete conversational understanding and generation in Urdu
+
+
+1.🔄 Transformer Architecture	Encoder-decoder model with multi-head attention
+
+
+1.📝 Subword Tokenization	SentencePiece tokenizer for efficient Urdu text processing
+
+
+1.🎨 Interactive UI	Gradio-based web interface for easy interaction
+
+
+1.📊 Comprehensive Evaluation	BLEU, ROUGE-L, and chrF metrics
+
+
+1.🎯 Advanced Decoding	Top-k and top-p sampling with temperature control
+
+
+1.💾 Model Persistence	Save and load trained models seamlessly
+
+
+1.🚀 GPU Support	Optimized for CUDA-enabled training
 # 🏗️ Architecture
 Model Details
 Component	Configuration
